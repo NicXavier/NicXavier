@@ -1,5 +1,5 @@
 ## Olá! Eu sou Nicole Xavier ✨  
-📫 Como entrar em contato comigo: [LinkedIn](https://linkedin.com/in/nicole-xavier-sp) | [GitHub](https://github.com/NicXavier) | nclxvr@gmail.com  
+📫 Como entrar em contato comigo: [LinkedIn](https://linkedin.com/in/nicole-xavier-sp) | nclxvr@gmail.com  
 
 ### Sobre Mim  
 
