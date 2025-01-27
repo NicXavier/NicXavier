@@ -3,15 +3,14 @@
 
 ### Sobre Mim  
 
-👩‍💻 **Desenvolvedora Full Stack** apaixonada por tecnologia e inovação.  
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** pela FMU e em transição de carreira, combinando determinação e novas habilidades para crescer na área de TI.  
-☁️ **Aprendendo Cloud AWS** pelo programa AWS re/Start e aprofundando meus conhecimentos em Spring Boot e Docker.
-🌟 Como **mulher na tecnologia**, acredito no poder da diversidade para transformar ideias em soluções incríveis.  
-🔭 Atualmente estou trabalhando em: projetos que envolvem APIs seguras e gerenciamento de dados.
-🤔 Estou buscando ajuda com: networking na área de cibersegurança e boas práticas em projetos de larga escala.
-💬 Me pergunte sobre: minha transição de carreira, desenvolvimento Full Stack ou como é ser uma mulher na tecnologia.
-😄 Pronomes: Ela/Dela
-⚡ Curiosidade: Além de programar, adoro viajar, cozinhar e explorar livros sobre filosofia e tecnologia!
+👩‍💻 **DESENVOLVEDOR FULL STACK** apaixonada por tecnologia e inovação.  
+🎓 **ESTUDANTE DE ANÁLISE E DESENVOLVIMENTO** pela FMU e em transição de carreira, combinando determinação e novas habilidades para crescer na área de TI.  
+☁️ **APRENDENDO CLOUD AWS** pelo programa AWS re/Start e aprofundando meus conhecimentos em Spring Boot e Docker.
+🌟 Como **MULHER NA TECNOLOGIA**, acredito no poder da diversidade para transformar ideias em soluções incríveis.  
+🔭 **ATUALMENTE TRABALHANDO EM** projetos que envolvem APIs seguras e gerenciamento de dados.
+🤔 **ESTOU BUSCANDO AJUDA COM** networking na área de cibersegurança e boas práticas em projetos de larga escala.
+💬 **ME PERGUNTE SOBRE** minha transição de carreira, desenvolvimento Full Stack ou como é ser uma mulher na tecnologia.
+⚡ **CURIOSIDADES** Além de programar, adoro viajar, cozinhar e explorar livros sobre filosofia!
 
 ---
 
