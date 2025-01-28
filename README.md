@@ -48,14 +48,19 @@ Git | GitHub
 **Ferramentas de Desenvolvimento**  
 VS Code | IntelliJ IDEA  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicXavier&show_icons=true&theme=tokyonight)
-
-### Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicXavier&layout=compact&theme=dark)
 
 | Certificação                         | Emitido por          | Ano de Conclusão |
 |--------------------------------------|----------------------|------------------|
 | AWS re/Start Gaaduate                | Amazon Web Services  | 2025             |
+
+### Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicXavier&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicXavier&show_icons=true&theme=dark)
+
+
+
+
                 
 
 
