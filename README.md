@@ -3,27 +3,45 @@
 
 ### Sobre Mim  
 
-👩‍💻 **DESENVOLVEDORA FULL STACK** apaixonada por tecnologia e inovação. <br>
+👩‍💻 **DESENVOLVEDORA FULL STACK** apaixonada por tecnologia e inovação. <br> 
+<br> 
 🎓 **ESTUDANTE DE ANÁLISE E DESENVOLVIMENTO** pela FMU e em transição de carreira, combinando determinação e novas habilidades para crescer na área de TI. <br>
-☁️ **APRENDENDO CLOUD AWS** pelo programa AWS re/Start e aprofundando meus conhecimentos em Spring Boot e Docker. <br>
+<br> 
+☁️ **CERTIFICADA EM CLOUD AWS** pelo programa AWS re/Start e aprofundando meus conhecimentos em cloud e Docker. <br>
+<br> 
 🌟 Como **MULHER NA TECNOLOGIA**, acredito no poder da diversidade para transformar ideias em soluções incríveis. <br>
+<br> 
 🔭 **ATUALMENTE TRABALHANDO EM** projetos que envolvem APIs seguras e gerenciamento de dados. <br>
+<br> 
 🤔 **ESTOU BUSCANDO AJUDA COM** networking na área de cibersegurança e boas práticas em projetos de larga escala. <br>
+<br> 
 💬 **ME PERGUNTE SOBRE** minha transição de carreira, desenvolvimento Full Stack ou como é ser uma mulher na tecnologia. <br>
+<br> 
 🗣️ **IDIOMAS:** Posso conversar em PORTUGUÊS e INGLêS, e estou aprendendo FRANCÊS! Adoraria conhecer pessoas para praticar. <br>
+<br> 
 ⚡ **CURIOSIDADES** Além de programar, adoro viajar, cozinhar e explorar livros sobre filosofia! <br>
  <br>
+ <br> 
 ### About Me
  <br>
 👩‍💻 FULL STACK DEVELOPER passionate about technology and innovation. <br>
+<br> 
 🎓 STUDENT OF SYSTEMS ANALYSIS AND DEVELOPMENT at FMU, transitioning careers with determination and new skills to grow in the IT field. <br>
-☁️ LEARNING CLOUD AWS through the AWS re/Start program and deepening my knowledge in Spring Boot and Docker. <br>
+<br> 
+☁️ CERTIFICATE IN CLOUD AWS through the AWS re/Start program and deepening my knowledge in cloud and Docker. <br>
+<br> 
 🌟 As a WOMAN IN TECH, I believe in the power of diversity to transform ideas into amazing solutions. <br>
+<br> 
 🔭 CURRENTLY WORKING ON projects involving secure APIs and data management. <br>
+<br> 
 🤔 LOOKING FOR HELP WITH networking in cybersecurity and best practices for large-scale projects. <br>
+<br> 
 💬 ASK ME ABOUT my career transition, Full Stack development, or what it's like to be a woman in tech. <br>
+<br> 
 🗣️ LANGUAGES: I can speak PORTUGUESE and ENGLISH, and I’m learning FRENCH! I’d love to meet people to practice with. <br>
+<br> 
 ⚡ FUN FACTS: Besides coding, I love traveling, cooking, and exploring books about philosophy! <br>
+<br> 
 
 
 ### **Skills**  
@@ -48,10 +66,6 @@
 **Ferramentas de Desenvolvimento**  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)  
 
-
-| Certificação                         | Emitido por          | Ano de Conclusão |
-|--------------------------------------|----------------------|------------------|
-| AWS re/Start Gaaduate                | Amazon Web Services  | 2025             |
 
 ### Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicXavier&layout=compact&theme=dark)
