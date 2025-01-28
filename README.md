@@ -23,7 +23,7 @@
  <br>
  <br> 
 ### About Me
- <br>
+
 👩‍💻 FULL STACK DEVELOPER passionate about technology and innovation. <br>
 <br> 
 🎓 STUDENT OF SYSTEMS ANALYSIS AND DEVELOPMENT at FMU, transitioning careers with determination and new skills to grow in the IT field. <br>
