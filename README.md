@@ -48,5 +48,6 @@ Git | GitHub
 **Ferramentas de Desenvolvimento**  
 VS Code | IntelliJ IDEA  
 
-
+### Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicXavier&layout=compact&theme=dark)
 
